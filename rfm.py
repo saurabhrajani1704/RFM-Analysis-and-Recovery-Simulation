@@ -142,3 +142,12 @@ st.download_button(
     file_name='rfm_table.csv',
     mime='text/csv',
 )
+st.markdown(
+    """
+    <hr style="margin-top: 50px;">
+    <div style='text-align: center; font-size: 14px; color: gray;'>
+        Made with ❤️ by <b>Saurabh Rajani</b>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
