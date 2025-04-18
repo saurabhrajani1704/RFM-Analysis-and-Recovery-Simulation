@@ -20,8 +20,7 @@ Perfect for e-commerce businesses looking to increase **customer retention**, re
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try the live app](https://your-streamlit-link-here)  
-*(Replace this link with your deployed Streamlit app URL)*
+🔗 [Click here to try the live app](https://rfm-analysis-and-recovery-simulation-aj4u58p32cfnq7ajhbbhuw.streamlit.app/)  
 
 ---
 
